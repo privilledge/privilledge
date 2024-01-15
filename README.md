@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 🌱 I’m currently learning **Python**
 
-💬 Ask me about **javascript and react.**
+💬 Ask me about **HTML, CSS, javascript and react.**
 
 📫 How to reach me **privieroyalty@gmail.com**
 
