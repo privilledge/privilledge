@@ -1,6 +1,6 @@
 
 <h1 align="center" style="background">Hi 👋, I'm Privilledge Mashegede</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Full stack developer</h3>
 <img align="right" alt="Coding" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 🌱 I’m currently learning **Python**
 
