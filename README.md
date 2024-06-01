@@ -1,5 +1,5 @@
 
-<h1 align="center" style="background">Hi 👋, I'm Privilledge Mashegede</h1>
+<h1 align="center" style="background">Hi 👋, I'm Privilledge</h1>
 <h3 align="center">Full stack developer</h3>
 <img align="right" alt="Coding" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
