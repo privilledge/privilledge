@@ -7,4 +7,5 @@ I am a dedicated full-stack developer with expertise in both front-end and back-
 <br>
 <h3>Favorite tech</h3>
 
-![image](https://github.com/privilledge/privilledge/assets/70237671/a603adaa-60f6-48bc-bc58-2bd13a0b2a60)
+![Ca](https://github.com/privilledge/privilledge/assets/70237671/b3193928-6015-4b31-ac78-d5fb49b5cfcf)
+
